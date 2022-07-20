@@ -1,12 +1,3 @@
-==========================================================
-WARNING: This repository is no longer maintained :warning:
-==========================================================
-
-This repository will not be updated. The repository will be kept available in read-only mode.
-
-=========================================
- Watson Streaming Speech to Text Example
-=========================================
 
 The following is an example of using Watson to real time transcribe
 from Speech to Text using the websockets streaming API.
